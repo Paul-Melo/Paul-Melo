@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Formado em administração e com 2 MBAs na área. Atualmente estou cursando engenharia de software e extramente animado para explorar oportunidades de aprendizado e desenvolvimento na área de tecnologia. Por hora tenho compreensão de front-end e aprendendo mais sobre back-end. Venho buscando desenvolver projetos e aplicações para aprimoramento, utilizando linguagens como HTML, CSS, JavaScript e iniciando Java.
+Formado em administração e com 2 MBAs na área. Atualmente estou cursando engenharia de software e extremamente animado para explorar oportunidades de aprendizado e desenvolvimento na área de tecnologia. Por hora tenho compreensão de front-end e aprendendo mais sobre back-end. Venho buscando desenvolver projetos e aplicações para aprimoramento, utilizando linguagens como HTML, CSS, JavaScript e iniciando Java.
 
 ## Habilidades
 

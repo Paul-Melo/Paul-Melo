@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Formado em administração e com 2 MBAs na área. Atualmente estou cursando engenharia de software e extremamente animado para explorar oportunidades de aprendizado e desenvolvimento na área de tecnologia. Por hora tenho compreensão de front-end e aprendendo mais sobre back-end. Venho buscando desenvolver projetos e aplicações para aprimoramento, utilizando linguagens como HTML, CSS, JavaScript e iniciando Java.
+Formado em administração e com 2 MBAs na área. Atualmente estou cursando engenharia de software e extremamente animado para explorar oportunidades de aprendizado e desenvolvimento na área de tecnologia. Por hora tenho compreensão de front-end e aprendendo mais sobre back-end. Venho buscando desenvolver projetos e aplicações para aprimoramento, utilizando linguagens como Python (Django/React/Tailwind) e me arriscando um pouco em Java.
 
 ## Habilidades
 
@@ -13,7 +13,6 @@ Formado em administração e com 2 MBAs na área. Atualmente estou cursando enge
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-192436?style=for-the-badge&logo=javascript)
 ![Markdown](https://img.shields.io/badge/Markdown-192436?style=for-the-badge&logo=markdown)
 
-
 ### Ferramentas
 
 ![Git](https://img.shields.io/badge/GIT-192436?style=for-the-badge&logo=git&logoColor=white)
@@ -23,14 +22,14 @@ Formado em administração e com 2 MBAs na área. Atualmente estou cursando enge
 ### Apreendendo 
 
 ![Java](https://img.shields.io/badge/java-192436.svg?style=for-the-badge&logo=openjdk&logoColor=orange)
-![TypeScript](https://img.shields.io/badge/TypeScript-192436?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-192436?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-192436?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-192436?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-192436?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![React](https://img.shields.io/badge/React-192436?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-192436?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-192436?style=for-the-badge&logo=angular&logoColor=white)
+<!--!![Angular](https://img.shields.io/badge/Angular-192436?style=for-the-badge&logo=angular&logoColor=white)
+[TypeScript](https://img.shields.io/badge/TypeScript-192436?style=for-the-badge&logo=typescript&logoColor=white)
+[C](https://img.shields.io/badge/C-192436?style=for-the-badge&logo=c&logoColor=white)
+[C++](https://img.shields.io/badge/C%2B%2B-192436?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+[C#](https://img.shields.io/badge/C%23-192436?style=for-the-badge&logo=c-sharp&logoColor=white)-->
 
 ## Conecte-se comigo
 

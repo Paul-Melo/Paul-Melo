@@ -12,16 +12,6 @@ Formado em administração e com 2 MBAs na área. Atualmente estou cursando enge
 ![CSS](https://img.shields.io/badge/css3-192436?style=for-the-badge&logo=css3)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-192436?style=for-the-badge&logo=javascript)
 ![Markdown](https://img.shields.io/badge/Markdown-192436?style=for-the-badge&logo=markdown)
-
-### Ferramentas
-
-![Git](https://img.shields.io/badge/GIT-192436?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-192436?style=for-the-badge&logo=figma&logoColor=figma)
-![Vscode](https://img.shields.io/badge/Vscode-192436?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### Apreendendo 
-
-![Java](https://img.shields.io/badge/java-192436.svg?style=for-the-badge&logo=openjdk&logoColor=orange)
 ![Python](https://img.shields.io/badge/python-192436?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/React-192436?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-192436?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -30,6 +20,12 @@ Formado em administração e com 2 MBAs na área. Atualmente estou cursando enge
 [C](https://img.shields.io/badge/C-192436?style=for-the-badge&logo=c&logoColor=white)
 [C++](https://img.shields.io/badge/C%2B%2B-192436?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 [C#](https://img.shields.io/badge/C%23-192436?style=for-the-badge&logo=c-sharp&logoColor=white)-->
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/GIT-192436?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-192436?style=for-the-badge&logo=figma&logoColor=figma)
+![Vscode](https://img.shields.io/badge/Vscode-192436?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Conecte-se comigo
 

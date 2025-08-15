@@ -12,6 +12,7 @@ Formado em administração e com 2 MBAs na área. Atualmente estou cursando enge
 ![CSS](https://img.shields.io/badge/css3-192436?style=for-the-badge&logo=css3)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-192436?style=for-the-badge&logo=javascript)
 ![Markdown](https://img.shields.io/badge/Markdown-192436?style=for-the-badge&logo=markdown)
+![Java](https://img.shields.io/badge/java-192436?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/python-192436?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/React-192436?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-192436?style=for-the-badge&logo=react&logoColor=61DAFB)
